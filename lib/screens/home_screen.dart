@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:habit_builder/screens/habit_detail_screen.dart';
+import 'package:habit_builder/screens/profile_screen.dart';
 import 'package:habit_builder/values/app_colors.dart';
 import 'package:habit_builder/values/text_styles.dart';
 import 'package:intl/intl.dart';
@@ -106,11 +107,16 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                       ClipRRect(
                         borderRadius: BorderRadius.circular(100.r),
-                        child: Image.network(
-                          "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg",
-                          height: 44.w,
-                          width: 44.w,
-                          fit: BoxFit.cover,
+                        child: InkWell(
+                          onTap: () {
+                            Navigator.push(context, MaterialPageRoute(builder: (_) => const ProfileScreen()));
+                          },
+                          child: Image.network(
+                            "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg",
+                            height: 44.w,
+                            width: 44.w,
+                            fit: BoxFit.cover,
+                          ),
                         ),
                       ),
                     ],
