@@ -65,4 +65,4 @@ If you have any questions or feedback, please don't hesitate to contact us at ht
 <br/>
 <br/>
 
-![](https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/banner.png)
+![](https://github.com/creative-hustle/Habit-Builder-UI/blob/main/media/banner.png?raw=true)
