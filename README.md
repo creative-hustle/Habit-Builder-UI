@@ -59,3 +59,10 @@
   flutter pub run
 ```
 
+## 🛠️ Contact Us
+If you have any questions or feedback, please don't hesitate to contact us at https://www.creative-hustlers.com. We're always happy to hear from our users!
+
+<br/>
+<br/>
+
+![](https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/banner.png)
