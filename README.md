@@ -14,6 +14,10 @@
 
 </div>
 <br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=CH-Habit-Builder-UI&style=for-the-badge&label=EXPLORED+BY&color=brightgreen" height="35" alt="visitors"/>
+</div>
+<br/>
 
 ![Group 1](https://raw.githubusercontent.com/creative-hustle/Habit-Builder-UI/main/media/1.png)
 ![Group 2](https://raw.githubusercontent.com/creative-hustle/Habit-Builder-UI/main/media/2.png)
