@@ -65,4 +65,4 @@ If you have any questions or feedback, please don't hesitate to contact us at ht
 <br/>
 <br/>
 
-![](https://github.com/creative-hustle/Habit-Builder-UI/blob/main/media/banner.png?raw=true)
+<a href="https://www.creative-hustlers.com"><img src="https://github.com/creative-hustle/Habit-Builder-UI/blob/main/media/banner.png?raw=true" alt="Description of image"></a>
