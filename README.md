@@ -15,7 +15,7 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=CH-Habit-Builder-UI&style=for-the-badge&label=EXPLORED+BY&color=brightgreen" height="35" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=CHA-Habit-Builder-UI&style=for-the-badge&label=EXPLORED+BY&color=brightgreen" height="35" alt="visitors"/>
 </div>
 <br/>
 
